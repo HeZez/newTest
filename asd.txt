@@ -10,8 +10,5 @@ hello
 
 branch dev
 
-<<<<<<< HEAD
 creating a new branch
-=======
-creating a new branch
->>>>>>> feature1
+
